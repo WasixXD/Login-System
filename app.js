@@ -18,22 +18,7 @@ var connection  =  mysql.createConnection({
 
 
 
-//criando conexão
-//connection.connect()
 
-
-// connection.query("SELECT * FROM dados;", (err, results, fields) => {
-//    if(err) throw err
-
-//    //resultados da query
-
-
-   
-   
-// })
-
-//fechando conexão => importante, pois garante que as querys serão executadas
-// connection.end()
 
 
 //Setando a porta
